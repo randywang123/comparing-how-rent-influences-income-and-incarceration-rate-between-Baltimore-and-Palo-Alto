@@ -19,10 +19,9 @@ The project shows the relationship between average household income and incarcer
 
 # Data Visualization 
 
-- ![image1](./image/bii.png)
+- ![image1](./image/Bii.png)
 - ![image2](./image/bri.png)
-- ![image3](./image/brent.png)
+- ![image3](./image/Brent.png)
 - ![image4](./image/pii.png)
 - ![image5](./image/pri.png)
 - ![image6](./image/prent.png)
-
