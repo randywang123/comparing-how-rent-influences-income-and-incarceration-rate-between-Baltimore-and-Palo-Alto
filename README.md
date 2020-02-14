@@ -52,3 +52,6 @@ income distribution who were incarcerated on April 1st, 2010)
 - Also, I have to admit that the amount of data in the file is not enough since it only has less than 1,000 records. But after we get more data, we can make sure that the claim should be more accurate on the goal of my project. 
 
 - Overall, the result of this project is decent in showing the trend on the income vs the incarceration rate. And I hope in the future, I can refine this argument to be more accurate by collecting more data in the future. 
+
+# LIFE LESSON
+- Don't use CSV file to do the pivot table on Office 2019 if you are using previous version of tables. It will CORRUPT your entire data and all the work you have done will DISAPPEAR. WHAT A TRAGIC STORY!
