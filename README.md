@@ -19,6 +19,8 @@ The project shows the relationship between average household income and incarcer
 
 
 # File Specification 
+- All the data is in the `data` folder
+
 - `all_general.xlsx`: This file contains full information for every state in the United States but for my prooject, I only choose Baltimore becuase it is our target and San Francisco becuase it is near Palo Alto. In this file, it contains another pivot table for the comparison on kfr (Mean household income rank for children whose parents were at the 25th percentile of the national income distribution) and jail (Fraction of children born in 1978-1983 birth cohorts with parents at the 25th percentile of the national
 income distribution who were incarcerated on April 1st, 2010) 
 
